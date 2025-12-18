@@ -12,8 +12,8 @@ pkg install nodejs git
 1. Install project:
 
 ```bash
-git clone https://github.com/your-repo/whatsapp-ai-bot
-cd whatsapp-ai-bot
+git clone https://github.com/pokuahhnyarko-lang/WhatsApp-AI-Bot.git
+cd WhatsApp-AI-Bot
 npm init -y
 npm install @whiskeysockets/baileys qrcode-terminal pino
 ```
