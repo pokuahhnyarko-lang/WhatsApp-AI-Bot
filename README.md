@@ -1,3 +1,4 @@
+![Screenshot_20251218_220936_Termux](https://github.com/user-attachments/assets/68b856c7-06ba-4acd-8c5a-1ee28d53df60)
 # WhatsApp-AI-Bot
 Installation & Setup for Termux:
 
