@@ -73,3 +73,9 @@ Features Added:
 · quote - Motivational quotes
 · 2+2 / 10*5 - Math calculations
 · rules - Group rules
+
+CREATED BY:@(KING-BLESS XMD)
+Developed By:Kingsley Nyarko 
+
+WHATSAPP NUMBER 🔢:+233535502036
+TELEGRAM:t.me/Gyimah803_bot
