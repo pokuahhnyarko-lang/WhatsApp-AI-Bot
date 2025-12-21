@@ -453,7 +453,8 @@ process.on('SIGINT', () => {
 console.log(`
 ╔═══════════════════════════════════════════╗
 ║      KING_BLESS XMD AI BOT v2.0          ║
-║                                           ║
+║  #WA 🔢: +233535502035#
+║ #Telegram bot#: http://t.me/Gyimah803_bot ║
 ║  Features Included:                       ║
 ║  • Advanced AI Chat System                ║
 ║  • Smart Auto-Reply Engine                ║
